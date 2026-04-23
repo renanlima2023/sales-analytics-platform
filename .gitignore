@@ -1,0 +1,29 @@
+# Ambiente Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Dados — nunca sobem para o GitHub
+data/raw/*.parquet
+data/trusted/*.parquet
+data/refined/*.db
+data/refined/*.sqlite
+
+# Credenciais — nunca sobem para o GitHub
+.env
+*.env
+
+# Logs locais
+logs/*.log
+
+# Power BI
+powerbi/*.pbix
+
+# VS Code
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
