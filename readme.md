@@ -256,7 +256,7 @@ sales-analytics-platform/
 
 - [x] Setup do ambiente e repositório
 - [x] Reconhecimento e mapeamento do banco de dados
-- [ ] Pipeline — camada Raw (extração)
+- [x] Pipeline — camada Raw (extração) — 8 tabelas · 142.897 linhas · 3,58s
 - [ ] Pipeline — camada Trusted (transformação)
 - [ ] Pipeline — camada Refined (modelagem)
 - [ ] Dashboard Power BI — 4 páginas
