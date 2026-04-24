@@ -243,12 +243,12 @@ sales-analytics-platform/
 
 ## Principais insights encontrados
 
-> *Seção atualizada conforme o projeto avança*
-
-- **Crescimento 2011→2013:** Receita cresceu 130% em dois anos, de R$ 7,1M para R$ 16,4M
-- **Concentração de produtos:** Top 10 produtos são todos da categoria Bikes — risco de concentração identificado pela Curva ABC
-- **Sazonalidade:** Q4 consistentemente maior em todos os anos analisados
-- **Margem média:** Produtos top apresentam margem entre 39% e 46%
+- **Receita total:** R$ 109,8M | Margem média: 30,3% | Ticket médio: R$ 464
+- **Canal Internet (B2C):** R$ 29,4M — margem de 53%
+- **Canal Reseller (B2B):** R$ 80,4M — margem de apenas 7,4%
+- **Curva ABC:** 87 produtos (25% do catálogo) geram 80% da receita
+- **Concentração:** Top 10 produtos são todos Bikes
+- **Crescimento:** Receita cresceu 130% entre 2011 e 2013
 
 ---
 
@@ -257,8 +257,8 @@ sales-analytics-platform/
 - [x] Setup do ambiente e repositório
 - [x] Reconhecimento e mapeamento do banco de dados
 - [x] Pipeline — camada Raw (extração) — 8 tabelas · 142.897 linhas · 3,58s
-- [ ] Pipeline — camada Trusted (transformação)
-- [ ] Pipeline — camada Refined (modelagem)
+- [x] Pipeline — camada Trusted (transformação) — fato unificada 121.253 linhas
+- [x] Pipeline — camada Refined (modelagem) — Star Schema · 9 tabelas · 0,61s
 - [ ] Dashboard Power BI — 4 páginas
 - [ ] Publicação no Power BI Service
 - [ ] Documentação final
