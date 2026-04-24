@@ -267,7 +267,7 @@ sales-analytics-platform/
 
 ## Autor
 
-**Seu Nome**
+**Renan Lima**
 Analista de Dados | 16 anos em TI · Transição para BI & Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/renan-slima)
