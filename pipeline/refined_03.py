@@ -2,7 +2,7 @@
 # Sales Analytics Platform
 # Camada : REFINED — Modelagem Dimensional
 # Script : 03_refined.py
-# Autor  : Seu Nome
+# Autor  : Renan Lima
 # Desc   : Lê os .parquet da camada Trusted, constrói o Star Schema
 #          e popula o banco SQLite analítico. Esse banco é a fonte
 #          direta do Power BI.

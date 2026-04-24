@@ -2,7 +2,7 @@
 # Sales Analytics Platform
 # Camada : TRUSTED — Transformações Analíticas
 # Script : 02_trusted.py
-# Autor  : Seu Nome
+# Autor  : Renan Lima
 # Desc   : Lê os .parquet da camada Raw, aplica limpeza, tipagem,
 #          enriquecimento e cria colunas de negócio. Salva os dados
 #          tratados como .parquet na camada Trusted.
